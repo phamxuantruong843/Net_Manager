@@ -5,6 +5,23 @@
 *   Dương Đình Mạnh
 *   Đoàn Mạnh Dương
 
+### Hướng dẫn cài đặt
+Giải nén code vào thư mục htdocs (đối với Xampp hay Apache) hoặc www (đối với Wampp, nginx, docker).
+
+Truy cập vào phpmyadmin, tạo database mới tên là quanlytiemnet, sau khi tạo xong, import file quanlytiemnet.sql  trong thư mục database/ để tạo bảng và dữ liệu.
+
+Cấu hình các thông số kết nối SQL trong file db_connect.php cho phù hợp
+
+$servername = "localhost";
+
+$username = "root";
+
+$password = "";
+
+$database = "quanlytiemnet";
+
+Gõ đường dẫn http://localhost/quanlytiemnet để chạy ứng dụng web
+
 ## 1/	Khảo sát đề tài
 Những cửa hàng internet không sử dụng các hệ thống quản lý thì họ quản lý cửa hàng thông qua sổ ghi chép, trong sổ có các nội dung: số máy, giờ bắt đầu, dịch vụ khác, thành tiền Khi có khách đến thuê máy, người quản lý cửa hàng phải ghi số máy, giờ bắt đầu của người khách. Khi khách trả máy thì người quản lý phải tính giờ thuê máy và tính thành tiền cho khách. Khi người chủ quán muốn thống kê doanh số thu từ cửa hàng thì phải tính toán thủ công bằng tay. Việc thống kê doanh thu là việc tốn rất nhiều thời gian và dễ xảy ra sai xót. Không có biểu đồ thống kê doanh thu mỗi ngày, mỗi tuần, mỗi tháng,… nên khó có thể đánh giá tình hình kinh doanh. Việc quản lý như vậy rất mất thời gian và sức lực nhưng hiệu quả mang lại không cao. Dễ sai nên khó quản lý và đưa ra kế hoặc kinh doanh lâu dài.
 Chính vì những lẽ đó, việc sử dụng hệ thống hỗ trợ quản lý là điều vô cùng cần thiết. Yêu cầu đặt ra cho các hệ thống đó là:
