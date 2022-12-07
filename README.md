@@ -9,11 +9,15 @@
 Giải nén code vào thư mục htdocs (đối với Xampp hay Apache) hoặc www (đối với Wampp, nginx, docker).
 
 Truy cập vào phpmyadmin, tạo database mới tên là quanlytiemnet, sau khi tạo xong, import file quanlytiemnet.sql  trong thư mục database/ để tạo bảng và dữ liệu.
+
 Cấu hình các thông số kết nối SQL trong file db_connect.php cho phù hợp
 
  $servername = "localhost";
+ 
  $username = "root";
+ 
  $password = "";
+ 
  $database = "quanlytiemnet";
 
 Gõ đường dẫn http://localhost/quanlytiemnet để chạy ứng dụng web
