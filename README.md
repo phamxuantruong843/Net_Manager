@@ -18,7 +18,9 @@ Chính vì những lẽ đó, việc sử dụng hệ thống hỗ trợ quản 
 -	Hỗ trợ biểu đồ thể hiện doanh thu.
 -	Hỗ trợ quản lý máy tính.
  
- 
+ ### Sơ đồ chức năng
+ ![image](https://user-images.githubusercontent.com/91688786/206248950-f0ae4a35-18b7-46f9-9fd0-25bceb335c37.png)
+
 ## 2/	Những tính năng đã làm được
 Nhìn chung, hệ thống đã đáp ứng được các nhu cầu cơ bản của một website quản lý tiệm net. Giao diện thân thiện, thao tác dễ sử dụng, thuận tiện cho người sử dụng. Phần mềm giúp hiện đại hóa việc quản lý tiệm net, giúp cho việc quản lý trở nên dễ dàng hơn, nhanh chóng hơn. Đồng thời, hệ thống còn có thể được nâng cấp để phù hợp với các nhu cầu khác của người quản lý tiệm net. Từ đó giảm thiểu được chi phí quản lý và tiết kiệm được thời gian của người sử dụng.
 
