@@ -6,7 +6,7 @@
 *   Đoàn Mạnh Dương
 
 ### Hướng dẫn cài đặt
-Giải nén code vào thư mục htdocs (đối với Xampp hay Apache) hoặc www (đối với Wampp, nginx, docker).
+Clone code vào thư mục htdocs (đối với Xampp hay Apache) hoặc www (đối với Wampp, nginx, docker).
 
 Truy cập vào phpmyadmin, tạo database mới tên là quanlytiemnet, sau khi tạo xong, import file quanlytiemnet.sql  trong thư mục database/ để tạo bảng và dữ liệu.
 
