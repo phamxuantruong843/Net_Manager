@@ -18,7 +18,7 @@ Cấu hình các thông số kết nối SQL trong file db_connect.php cho phù 
  
  $password = "";
  
- $database = "quanlytiemnet";
+ $database = "quanlyquannet";
 
 Gõ đường dẫn http://localhost/quanlytiemnet để chạy ứng dụng web
 
