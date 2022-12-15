@@ -38,13 +38,14 @@ Chính vì những lẽ đó, việc sử dụng hệ thống hỗ trợ quản 
  ### Sơ đồ chức năng
  ![image](https://user-images.githubusercontent.com/91688786/206248950-f0ae4a35-18b7-46f9-9fd0-25bceb335c37.png)
 
-#Thiết kế cơ sở dữ liệu
+# Thiết kế cơ sở dữ liệu
 ![image](https://user-images.githubusercontent.com/91688786/207876355-b7180081-0aeb-49d1-a161-2914d3e4623e.png)
 - Bảng `thongtinkhachhang` lưu trữ thông tin khách hàng
 - Bảng `giaodich` lưu trữ thông tin giao dịch
 - Bảng `giatien` cập nhật giá tiền theo từng khoang thời gian kinh doanh của cửa hàng
 - Bảng `maytinh` thể hiện số lượng máy tính cũng như tình trạng hỏng/bình thường của từng máy, những thay đổi như thêm/bớt, sửa chữa cảu máy sẽ được cập nhật ở bảng này 
 - Bảng `taikhoan` lưu trữ thông tin tài khoản vào hệ thống của nhân viên và quản lý với mật khẩu đã được mã khóa để không rò rỉ thông tin 
+
 ## 2/	Những tính năng đã làm được
 Nhìn chung, hệ thống đã đáp ứng được các nhu cầu cơ bản của một website quản lý tiệm net. Giao diện thân thiện, thao tác dễ sử dụng, thuận tiện cho người sử dụng. Phần mềm giúp hiện đại hóa việc quản lý tiệm net, giúp cho việc quản lý trở nên dễ dàng hơn, nhanh chóng hơn. Đồng thời, hệ thống còn có thể được nâng cấp để phù hợp với các nhu cầu khác của người quản lý tiệm net. Từ đó giảm thiểu được chi phí quản lý và tiết kiệm được thời gian của người sử dụng.
 
