@@ -50,7 +50,6 @@ Tuy nhiên do kiến thức còn hạn chế và thời gian có hạn nên tran
 
 
 ## 4/ Hướng phát triển 
-Trong tương lai, nhóm chúng em dự tính chỉnh sửa đề tài như sau:
 - Chỉnh giao diện cho bắt mắt hơn.
 - Viết thêm các chức năng khác để đáp ứng yêu cầu ứng dụng trong thực tế.
 - Tối ưu các tính năng đã có.
