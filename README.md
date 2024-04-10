@@ -1,10 +1,5 @@
 # Website quản lí tiệm net
 
-## 0/ Thành viên nhóm:
-*   Phạm Xuân Trường
-*   Dương Đình Mạnh
-*   Đoàn Mạnh Dương
-
 ### Hướng dẫn cài đặt
 Clone và giải nén code vào thư mục htdocs (đối với Xampp hay Apache) hoặc www (đối với Wampp, nginx, docker).
 
